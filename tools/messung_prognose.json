@@ -1,0 +1,1298 @@
+[
+ {
+  "kwp": 100.0,
+  "reserve": "endwert",
+  "kind": "perfekt",
+  "mode": "tag",
+  "seed": 1,
+  "saving": 721.6311337278428,
+  "peak": 54.46475879286966
+ },
+ {
+  "kwp": 100.0,
+  "reserve": "endwert",
+  "kind": "perfekt",
+  "mode": "tag",
+  "seed": 2,
+  "saving": 677.4886662489002,
+  "peak": 73.66340832545154
+ },
+ {
+  "kwp": 100.0,
+  "reserve": "endwert",
+  "kind": "perfekt",
+  "mode": "tag",
+  "seed": 3,
+  "saving": 703.703822141094,
+  "peak": 78.0920478962847
+ },
+ {
+  "kwp": 100.0,
+  "reserve": "endwert",
+  "kind": "perfekt",
+  "mode": "tag",
+  "seed": 4,
+  "saving": 719.245907112258,
+  "peak": 47.445111773811306
+ },
+ {
+  "kwp": 100.0,
+  "reserve": "endwert",
+  "kind": "perfekt",
+  "mode": "tag",
+  "seed": 5,
+  "saving": 704.1556120567222,
+  "peak": 42.362121486037225
+ },
+ {
+  "kwp": 100.0,
+  "reserve": "endwert",
+  "kind": "perfekt",
+  "mode": "tag",
+  "seed": 6,
+  "saving": 751.2661060017058,
+  "peak": 44.02694024189361
+ },
+ {
+  "kwp": 100.0,
+  "reserve": "endwert",
+  "kind": "perfekt",
+  "mode": "neu",
+  "seed": 1,
+  "saving": 721.3636131569053,
+  "peak": 54.464758792869674
+ },
+ {
+  "kwp": 100.0,
+  "reserve": "endwert",
+  "kind": "perfekt",
+  "mode": "neu",
+  "seed": 2,
+  "saving": 677.2712073222579,
+  "peak": 73.66340832545154
+ },
+ {
+  "kwp": 100.0,
+  "reserve": "endwert",
+  "kind": "perfekt",
+  "mode": "neu",
+  "seed": 3,
+  "saving": 702.0684261556412,
+  "peak": 78.0920478962847
+ },
+ {
+  "kwp": 100.0,
+  "reserve": "endwert",
+  "kind": "perfekt",
+  "mode": "neu",
+  "seed": 4,
+  "saving": 718.3718824479149,
+  "peak": 47.445111773811306
+ },
+ {
+  "kwp": 100.0,
+  "reserve": "endwert",
+  "kind": "perfekt",
+  "mode": "neu",
+  "seed": 5,
+  "saving": 703.7330125779238,
+  "peak": 42.362121486037296
+ },
+ {
+  "kwp": 100.0,
+  "reserve": "endwert",
+  "kind": "perfekt",
+  "mode": "neu",
+  "seed": 6,
+  "saving": 751.3047362990751,
+  "peak": 44.02694024189367
+ },
+ {
+  "kwp": 100.0,
+  "reserve": "endwert",
+  "kind": "persistenz",
+  "mode": "tag",
+  "seed": 1,
+  "saving": -116.6799451416914,
+  "peak": 120.23406670006761
+ },
+ {
+  "kwp": 100.0,
+  "reserve": "endwert",
+  "kind": "persistenz",
+  "mode": "tag",
+  "seed": 2,
+  "saving": -241.20982608150234,
+  "peak": 148.68092143069586
+ },
+ {
+  "kwp": 100.0,
+  "reserve": "endwert",
+  "kind": "persistenz",
+  "mode": "tag",
+  "seed": 3,
+  "saving": 53.88970661352823,
+  "peak": 128.0920478962847
+ },
+ {
+  "kwp": 100.0,
+  "reserve": "endwert",
+  "kind": "persistenz",
+  "mode": "tag",
+  "seed": 4,
+  "saving": -44.31924041541197,
+  "peak": 105.22901355263492
+ },
+ {
+  "kwp": 100.0,
+  "reserve": "endwert",
+  "kind": "persistenz",
+  "mode": "tag",
+  "seed": 5,
+  "saving": -189.65178445050014,
+  "peak": 112.55777448397896
+ },
+ {
+  "kwp": 100.0,
+  "reserve": "endwert",
+  "kind": "persistenz",
+  "mode": "tag",
+  "seed": 6,
+  "saving": -274.1784963438122,
+  "peak": 126.85086370384893
+ },
+ {
+  "kwp": 100.0,
+  "reserve": "endwert",
+  "kind": "persistenz",
+  "mode": "neu",
+  "seed": 1,
+  "saving": 224.9815407472047,
+  "peak": 104.46475879286966
+ },
+ {
+  "kwp": 100.0,
+  "reserve": "endwert",
+  "kind": "persistenz",
+  "mode": "neu",
+  "seed": 2,
+  "saving": 169.37467356799652,
+  "peak": 123.66340832545154
+ },
+ {
+  "kwp": 100.0,
+  "reserve": "endwert",
+  "kind": "persistenz",
+  "mode": "neu",
+  "seed": 3,
+  "saving": 201.2275370960133,
+  "peak": 128.0920478962847
+ },
+ {
+  "kwp": 100.0,
+  "reserve": "endwert",
+  "kind": "persistenz",
+  "mode": "neu",
+  "seed": 4,
+  "saving": 222.89943588718506,
+  "peak": 97.4451117738113
+ },
+ {
+  "kwp": 100.0,
+  "reserve": "endwert",
+  "kind": "persistenz",
+  "mode": "neu",
+  "seed": 5,
+  "saving": 253.9279543530015,
+  "peak": 87.86330201563786
+ },
+ {
+  "kwp": 100.0,
+  "reserve": "endwert",
+  "kind": "persistenz",
+  "mode": "neu",
+  "seed": 6,
+  "saving": 252.13565728444337,
+  "peak": 94.02694024189361
+ },
+ {
+  "kwp": 100.0,
+  "reserve": "endwert",
+  "kind": "klimatologie",
+  "mode": "tag",
+  "seed": 1,
+  "saving": 41.90689763557157,
+  "peak": 104.46475879286966
+ },
+ {
+  "kwp": 100.0,
+  "reserve": "endwert",
+  "kind": "klimatologie",
+  "mode": "tag",
+  "seed": 2,
+  "saving": 59.00871297911908,
+  "peak": 123.66340832545154
+ },
+ {
+  "kwp": 100.0,
+  "reserve": "endwert",
+  "kind": "klimatologie",
+  "mode": "tag",
+  "seed": 3,
+  "saving": 61.49639640638543,
+  "peak": 128.0920478962847
+ },
+ {
+  "kwp": 100.0,
+  "reserve": "endwert",
+  "kind": "klimatologie",
+  "mode": "tag",
+  "seed": 4,
+  "saving": 36.6497775278699,
+  "peak": 100.06321644429549
+ },
+ {
+  "kwp": 100.0,
+  "reserve": "endwert",
+  "kind": "klimatologie",
+  "mode": "tag",
+  "seed": 5,
+  "saving": -71.97198126853755,
+  "peak": 102.3795985919219
+ },
+ {
+  "kwp": 100.0,
+  "reserve": "endwert",
+  "kind": "klimatologie",
+  "mode": "tag",
+  "seed": 6,
+  "saving": 61.897413201209474,
+  "peak": 94.02694024189361
+ },
+ {
+  "kwp": 100.0,
+  "reserve": "endwert",
+  "kind": "klimatologie",
+  "mode": "neu",
+  "seed": 1,
+  "saving": 224.8203724551763,
+  "peak": 104.46475879286966
+ },
+ {
+  "kwp": 100.0,
+  "reserve": "endwert",
+  "kind": "klimatologie",
+  "mode": "neu",
+  "seed": 2,
+  "saving": 158.29367855040027,
+  "peak": 123.66340832545154
+ },
+ {
+  "kwp": 100.0,
+  "reserve": "endwert",
+  "kind": "klimatologie",
+  "mode": "neu",
+  "seed": 3,
+  "saving": 207.12498078755152,
+  "peak": 128.0920478962847
+ },
+ {
+  "kwp": 100.0,
+  "reserve": "endwert",
+  "kind": "klimatologie",
+  "mode": "neu",
+  "seed": 4,
+  "saving": 227.08789549050425,
+  "peak": 97.4451117738113
+ },
+ {
+  "kwp": 100.0,
+  "reserve": "endwert",
+  "kind": "klimatologie",
+  "mode": "neu",
+  "seed": 5,
+  "saving": 257.703107632557,
+  "peak": 87.48738620875315
+ },
+ {
+  "kwp": 100.0,
+  "reserve": "endwert",
+  "kind": "klimatologie",
+  "mode": "neu",
+  "seed": 6,
+  "saving": 253.91366090896827,
+  "peak": 94.02694024189361
+ },
+ {
+  "kwp": 100.0,
+  "reserve": 1.0,
+  "kind": "perfekt",
+  "mode": "tag",
+  "seed": 1,
+  "saving": 721.9655094572645,
+  "peak": 54.46475879286966
+ },
+ {
+  "kwp": 100.0,
+  "reserve": 1.0,
+  "kind": "perfekt",
+  "mode": "tag",
+  "seed": 2,
+  "saving": 676.006056910946,
+  "peak": 73.66340832545154
+ },
+ {
+  "kwp": 100.0,
+  "reserve": 1.0,
+  "kind": "perfekt",
+  "mode": "tag",
+  "seed": 3,
+  "saving": 702.5465744992634,
+  "peak": 78.0920478962847
+ },
+ {
+  "kwp": 100.0,
+  "reserve": 1.0,
+  "kind": "perfekt",
+  "mode": "tag",
+  "seed": 4,
+  "saving": 717.3682519156794,
+  "peak": 47.445111773811306
+ },
+ {
+  "kwp": 100.0,
+  "reserve": 1.0,
+  "kind": "perfekt",
+  "mode": "tag",
+  "seed": 5,
+  "saving": 703.8198793042534,
+  "peak": 42.362121486037225
+ },
+ {
+  "kwp": 100.0,
+  "reserve": 1.0,
+  "kind": "perfekt",
+  "mode": "tag",
+  "seed": 6,
+  "saving": 749.1860952332793,
+  "peak": 44.02694024189361
+ },
+ {
+  "kwp": 100.0,
+  "reserve": 1.0,
+  "kind": "perfekt",
+  "mode": "neu",
+  "seed": 1,
+  "saving": 721.1777317377259,
+  "peak": 54.464758792869674
+ },
+ {
+  "kwp": 100.0,
+  "reserve": 1.0,
+  "kind": "perfekt",
+  "mode": "neu",
+  "seed": 2,
+  "saving": 675.7746773382601,
+  "peak": 73.66340832545154
+ },
+ {
+  "kwp": 100.0,
+  "reserve": 1.0,
+  "kind": "perfekt",
+  "mode": "neu",
+  "seed": 3,
+  "saving": 700.7231290634127,
+  "peak": 78.0920478962847
+ },
+ {
+  "kwp": 100.0,
+  "reserve": 1.0,
+  "kind": "perfekt",
+  "mode": "neu",
+  "seed": 4,
+  "saving": 716.0690978413988,
+  "peak": 47.445111773811306
+ },
+ {
+  "kwp": 100.0,
+  "reserve": 1.0,
+  "kind": "perfekt",
+  "mode": "neu",
+  "seed": 5,
+  "saving": 703.1260313436123,
+  "peak": 42.36212148603717
+ },
+ {
+  "kwp": 100.0,
+  "reserve": 1.0,
+  "kind": "perfekt",
+  "mode": "neu",
+  "seed": 6,
+  "saving": 748.941863840568,
+  "peak": 44.02694024189361
+ },
+ {
+  "kwp": 100.0,
+  "reserve": 1.0,
+  "kind": "persistenz",
+  "mode": "tag",
+  "seed": 1,
+  "saving": -114.37657626370628,
+  "peak": 120.23406670006761
+ },
+ {
+  "kwp": 100.0,
+  "reserve": 1.0,
+  "kind": "persistenz",
+  "mode": "tag",
+  "seed": 2,
+  "saving": -234.132896256589,
+  "peak": 148.68092143069586
+ },
+ {
+  "kwp": 100.0,
+  "reserve": 1.0,
+  "kind": "persistenz",
+  "mode": "tag",
+  "seed": 3,
+  "saving": 0.6228843290086843,
+  "peak": 133.72331850609152
+ },
+ {
+  "kwp": 100.0,
+  "reserve": 1.0,
+  "kind": "persistenz",
+  "mode": "tag",
+  "seed": 4,
+  "saving": -39.42232321668553,
+  "peak": 105.22901355263492
+ },
+ {
+  "kwp": 100.0,
+  "reserve": 1.0,
+  "kind": "persistenz",
+  "mode": "tag",
+  "seed": 5,
+  "saving": -187.15423669075653,
+  "peak": 112.55777448397896
+ },
+ {
+  "kwp": 100.0,
+  "reserve": 1.0,
+  "kind": "persistenz",
+  "mode": "tag",
+  "seed": 6,
+  "saving": -280.36429239166773,
+  "peak": 126.85086370384893
+ },
+ {
+  "kwp": 100.0,
+  "reserve": 1.0,
+  "kind": "persistenz",
+  "mode": "neu",
+  "seed": 1,
+  "saving": 377.55884101674883,
+  "peak": 84.32451970708894
+ },
+ {
+  "kwp": 100.0,
+  "reserve": 1.0,
+  "kind": "persistenz",
+  "mode": "neu",
+  "seed": 2,
+  "saving": 245.7787015076251,
+  "peak": 107.85073692782169
+ },
+ {
+  "kwp": 100.0,
+  "reserve": 1.0,
+  "kind": "persistenz",
+  "mode": "neu",
+  "seed": 3,
+  "saving": 466.9820547719992,
+  "peak": 94.08016893508655
+ },
+ {
+  "kwp": 100.0,
+  "reserve": 1.0,
+  "kind": "persistenz",
+  "mode": "neu",
+  "seed": 4,
+  "saving": 152.41140582534035,
+  "peak": 97.4451117738113
+ },
+ {
+  "kwp": 100.0,
+  "reserve": 1.0,
+  "kind": "persistenz",
+  "mode": "neu",
+  "seed": 5,
+  "saving": 218.6999328511797,
+  "peak": 87.48738620875315
+ },
+ {
+  "kwp": 100.0,
+  "reserve": 1.0,
+  "kind": "persistenz",
+  "mode": "neu",
+  "seed": 6,
+  "saving": 212.22847513908528,
+  "peak": 94.02694024189361
+ },
+ {
+  "kwp": 100.0,
+  "reserve": 1.0,
+  "kind": "klimatologie",
+  "mode": "tag",
+  "seed": 1,
+  "saving": 40.70607690971201,
+  "peak": 104.46475879286966
+ },
+ {
+  "kwp": 100.0,
+  "reserve": 1.0,
+  "kind": "klimatologie",
+  "mode": "tag",
+  "seed": 2,
+  "saving": 72.18144099429855,
+  "peak": 123.66340832545154
+ },
+ {
+  "kwp": 100.0,
+  "reserve": 1.0,
+  "kind": "klimatologie",
+  "mode": "tag",
+  "seed": 3,
+  "saving": 62.29791703971932,
+  "peak": 128.0920478962847
+ },
+ {
+  "kwp": 100.0,
+  "reserve": 1.0,
+  "kind": "klimatologie",
+  "mode": "tag",
+  "seed": 4,
+  "saving": 53.09168508488301,
+  "peak": 100.06321644429549
+ },
+ {
+  "kwp": 100.0,
+  "reserve": 1.0,
+  "kind": "klimatologie",
+  "mode": "tag",
+  "seed": 5,
+  "saving": -41.51893379539206,
+  "peak": 102.3795985919219
+ },
+ {
+  "kwp": 100.0,
+  "reserve": 1.0,
+  "kind": "klimatologie",
+  "mode": "tag",
+  "seed": 6,
+  "saving": 60.58294363037385,
+  "peak": 94.02694024189361
+ },
+ {
+  "kwp": 100.0,
+  "reserve": 1.0,
+  "kind": "klimatologie",
+  "mode": "neu",
+  "seed": 1,
+  "saving": 486.1387545869402,
+  "peak": 63.15081907372986
+ },
+ {
+  "kwp": 100.0,
+  "reserve": 1.0,
+  "kind": "klimatologie",
+  "mode": "neu",
+  "seed": 2,
+  "saving": 589.0654525876621,
+  "peak": 73.66340832545154
+ },
+ {
+  "kwp": 100.0,
+  "reserve": 1.0,
+  "kind": "klimatologie",
+  "mode": "neu",
+  "seed": 3,
+  "saving": 586.6378392385695,
+  "peak": 78.0920478962847
+ },
+ {
+  "kwp": 100.0,
+  "reserve": 1.0,
+  "kind": "klimatologie",
+  "mode": "neu",
+  "seed": 4,
+  "saving": 164.62897494897288,
+  "peak": 97.4451117738113
+ },
+ {
+  "kwp": 100.0,
+  "reserve": 1.0,
+  "kind": "klimatologie",
+  "mode": "neu",
+  "seed": 5,
+  "saving": 182.14039254009413,
+  "peak": 87.48738620875315
+ },
+ {
+  "kwp": 100.0,
+  "reserve": 1.0,
+  "kind": "klimatologie",
+  "mode": "neu",
+  "seed": 6,
+  "saving": 257.2342789370682,
+  "peak": 76.85086370384893
+ },
+ {
+  "kwp": 0.0,
+  "reserve": "endwert",
+  "kind": "perfekt",
+  "mode": "tag",
+  "seed": 1,
+  "saving": 480.86642511595073,
+  "peak": 62.281667617795165
+ },
+ {
+  "kwp": 0.0,
+  "reserve": "endwert",
+  "kind": "perfekt",
+  "mode": "tag",
+  "seed": 2,
+  "saving": 496.28765236603795,
+  "peak": 81.60485161540674
+ },
+ {
+  "kwp": 0.0,
+  "reserve": "endwert",
+  "kind": "perfekt",
+  "mode": "tag",
+  "seed": 3,
+  "saving": 491.75083883629304,
+  "peak": 87.01088923384253
+ },
+ {
+  "kwp": 0.0,
+  "reserve": "endwert",
+  "kind": "perfekt",
+  "mode": "tag",
+  "seed": 4,
+  "saving": 476.6581513413721,
+  "peak": 61.03225153974971
+ },
+ {
+  "kwp": 0.0,
+  "reserve": "endwert",
+  "kind": "perfekt",
+  "mode": "tag",
+  "seed": 5,
+  "saving": 478.85376061368015,
+  "peak": 62.11443541469447
+ },
+ {
+  "kwp": 0.0,
+  "reserve": "endwert",
+  "kind": "perfekt",
+  "mode": "tag",
+  "seed": 6,
+  "saving": 493.47841612301454,
+  "peak": 77.11198124344014
+ },
+ {
+  "kwp": 0.0,
+  "reserve": "endwert",
+  "kind": "perfekt",
+  "mode": "neu",
+  "seed": 1,
+  "saving": 480.1407003356685,
+  "peak": 62.281667617795264
+ },
+ {
+  "kwp": 0.0,
+  "reserve": "endwert",
+  "kind": "perfekt",
+  "mode": "neu",
+  "seed": 2,
+  "saving": 496.18337366719015,
+  "peak": 81.60485161540674
+ },
+ {
+  "kwp": 0.0,
+  "reserve": "endwert",
+  "kind": "perfekt",
+  "mode": "neu",
+  "seed": 3,
+  "saving": 490.5299805959867,
+  "peak": 87.01088923384255
+ },
+ {
+  "kwp": 0.0,
+  "reserve": "endwert",
+  "kind": "perfekt",
+  "mode": "neu",
+  "seed": 4,
+  "saving": 476.53951295268143,
+  "peak": 61.032251539749794
+ },
+ {
+  "kwp": 0.0,
+  "reserve": "endwert",
+  "kind": "perfekt",
+  "mode": "neu",
+  "seed": 5,
+  "saving": 477.47808846593944,
+  "peak": 62.1144354146945
+ },
+ {
+  "kwp": 0.0,
+  "reserve": "endwert",
+  "kind": "perfekt",
+  "mode": "neu",
+  "seed": 6,
+  "saving": 493.3226769014964,
+  "peak": 77.11198124344014
+ },
+ {
+  "kwp": 0.0,
+  "reserve": "endwert",
+  "kind": "persistenz",
+  "mode": "tag",
+  "seed": 1,
+  "saving": -2.5253209873862943,
+  "peak": 112.28166761779516
+ },
+ {
+  "kwp": 0.0,
+  "reserve": "endwert",
+  "kind": "persistenz",
+  "mode": "tag",
+  "seed": 2,
+  "saving": -7.294507746591989,
+  "peak": 131.60485161540674
+ },
+ {
+  "kwp": 0.0,
+  "reserve": "endwert",
+  "kind": "persistenz",
+  "mode": "tag",
+  "seed": 3,
+  "saving": -2.759525436628792,
+  "peak": 137.01088923384253
+ },
+ {
+  "kwp": 0.0,
+  "reserve": "endwert",
+  "kind": "persistenz",
+  "mode": "tag",
+  "seed": 4,
+  "saving": -4.787129957105208,
+  "peak": 111.03225153974971
+ },
+ {
+  "kwp": 0.0,
+  "reserve": "endwert",
+  "kind": "persistenz",
+  "mode": "tag",
+  "seed": 5,
+  "saving": -1.4770088113054953,
+  "peak": 112.11443541469447
+ },
+ {
+  "kwp": 0.0,
+  "reserve": "endwert",
+  "kind": "persistenz",
+  "mode": "tag",
+  "seed": 6,
+  "saving": -5.100679352915904,
+  "peak": 127.11198124344014
+ },
+ {
+  "kwp": 0.0,
+  "reserve": "endwert",
+  "kind": "persistenz",
+  "mode": "neu",
+  "seed": 1,
+  "saving": -1.8751372850911139,
+  "peak": 112.28166761779516
+ },
+ {
+  "kwp": 0.0,
+  "reserve": "endwert",
+  "kind": "persistenz",
+  "mode": "neu",
+  "seed": 2,
+  "saving": -4.362661532266429,
+  "peak": 131.60485161540674
+ },
+ {
+  "kwp": 0.0,
+  "reserve": "endwert",
+  "kind": "persistenz",
+  "mode": "neu",
+  "seed": 3,
+  "saving": -5.727256185551596,
+  "peak": 137.01088923384253
+ },
+ {
+  "kwp": 0.0,
+  "reserve": "endwert",
+  "kind": "persistenz",
+  "mode": "neu",
+  "seed": 4,
+  "saving": -7.515746380603559,
+  "peak": 111.03225153974971
+ },
+ {
+  "kwp": 0.0,
+  "reserve": "endwert",
+  "kind": "persistenz",
+  "mode": "neu",
+  "seed": 5,
+  "saving": -5.464182712918046,
+  "peak": 112.11443541469447
+ },
+ {
+  "kwp": 0.0,
+  "reserve": "endwert",
+  "kind": "persistenz",
+  "mode": "neu",
+  "seed": 6,
+  "saving": -3.103339238463377,
+  "peak": 127.11198124344014
+ },
+ {
+  "kwp": 0.0,
+  "reserve": "endwert",
+  "kind": "klimatologie",
+  "mode": "tag",
+  "seed": 1,
+  "saving": -4.012600502001078,
+  "peak": 112.28166761779516
+ },
+ {
+  "kwp": 0.0,
+  "reserve": "endwert",
+  "kind": "klimatologie",
+  "mode": "tag",
+  "seed": 2,
+  "saving": -4.426495701563908,
+  "peak": 131.60485161540674
+ },
+ {
+  "kwp": 0.0,
+  "reserve": "endwert",
+  "kind": "klimatologie",
+  "mode": "tag",
+  "seed": 3,
+  "saving": -3.408017947745975,
+  "peak": 137.01088923384253
+ },
+ {
+  "kwp": 0.0,
+  "reserve": "endwert",
+  "kind": "klimatologie",
+  "mode": "tag",
+  "seed": 4,
+  "saving": -5.170483696533665,
+  "peak": 111.03225153974971
+ },
+ {
+  "kwp": 0.0,
+  "reserve": "endwert",
+  "kind": "klimatologie",
+  "mode": "tag",
+  "seed": 5,
+  "saving": -3.8474322085039603,
+  "peak": 112.11443541469447
+ },
+ {
+  "kwp": 0.0,
+  "reserve": "endwert",
+  "kind": "klimatologie",
+  "mode": "tag",
+  "seed": 6,
+  "saving": -4.653102952754125,
+  "peak": 127.11198124344014
+ },
+ {
+  "kwp": 0.0,
+  "reserve": "endwert",
+  "kind": "klimatologie",
+  "mode": "neu",
+  "seed": 1,
+  "saving": -7.070932277736574,
+  "peak": 112.28166761779516
+ },
+ {
+  "kwp": 0.0,
+  "reserve": "endwert",
+  "kind": "klimatologie",
+  "mode": "neu",
+  "seed": 2,
+  "saving": -2.270425629649253,
+  "peak": 131.60485161540674
+ },
+ {
+  "kwp": 0.0,
+  "reserve": "endwert",
+  "kind": "klimatologie",
+  "mode": "neu",
+  "seed": 3,
+  "saving": -2.6853813059060485,
+  "peak": 137.01088923384253
+ },
+ {
+  "kwp": 0.0,
+  "reserve": "endwert",
+  "kind": "klimatologie",
+  "mode": "neu",
+  "seed": 4,
+  "saving": -2.52199286544419,
+  "peak": 111.03225153974971
+ },
+ {
+  "kwp": 0.0,
+  "reserve": "endwert",
+  "kind": "klimatologie",
+  "mode": "neu",
+  "seed": 5,
+  "saving": -2.1440237779443123,
+  "peak": 112.11443541469447
+ },
+ {
+  "kwp": 0.0,
+  "reserve": "endwert",
+  "kind": "klimatologie",
+  "mode": "neu",
+  "seed": 6,
+  "saving": -2.858029552244261,
+  "peak": 127.11198124344014
+ },
+ {
+  "kwp": 0.0,
+  "reserve": 1.0,
+  "kind": "perfekt",
+  "mode": "tag",
+  "seed": 1,
+  "saving": 480.86642511595073,
+  "peak": 62.281667617795165
+ },
+ {
+  "kwp": 0.0,
+  "reserve": 1.0,
+  "kind": "perfekt",
+  "mode": "tag",
+  "seed": 2,
+  "saving": 494.1794672592596,
+  "peak": 81.60485161540674
+ },
+ {
+  "kwp": 0.0,
+  "reserve": 1.0,
+  "kind": "perfekt",
+  "mode": "tag",
+  "seed": 3,
+  "saving": 490.27983445351765,
+  "peak": 87.01088923384253
+ },
+ {
+  "kwp": 0.0,
+  "reserve": 1.0,
+  "kind": "perfekt",
+  "mode": "tag",
+  "seed": 4,
+  "saving": 476.6581513413721,
+  "peak": 61.03225153974971
+ },
+ {
+  "kwp": 0.0,
+  "reserve": 1.0,
+  "kind": "perfekt",
+  "mode": "tag",
+  "seed": 5,
+  "saving": 478.1110004383522,
+  "peak": 62.11443541469447
+ },
+ {
+  "kwp": 0.0,
+  "reserve": 1.0,
+  "kind": "perfekt",
+  "mode": "tag",
+  "seed": 6,
+  "saving": 491.37023101623527,
+  "peak": 77.11198124344014
+ },
+ {
+  "kwp": 0.0,
+  "reserve": 1.0,
+  "kind": "perfekt",
+  "mode": "neu",
+  "seed": 1,
+  "saving": 478.35145859619024,
+  "peak": 62.281667617795165
+ },
+ {
+  "kwp": 0.0,
+  "reserve": 1.0,
+  "kind": "perfekt",
+  "mode": "neu",
+  "seed": 2,
+  "saving": 494.07518856041133,
+  "peak": 81.60485161540674
+ },
+ {
+  "kwp": 0.0,
+  "reserve": 1.0,
+  "kind": "perfekt",
+  "mode": "neu",
+  "seed": 3,
+  "saving": 489.0898337819817,
+  "peak": 87.01088923384253
+ },
+ {
+  "kwp": 0.0,
+  "reserve": 1.0,
+  "kind": "perfekt",
+  "mode": "neu",
+  "seed": 4,
+  "saving": 475.080585636616,
+  "peak": 61.032251539749716
+ },
+ {
+  "kwp": 0.0,
+  "reserve": 1.0,
+  "kind": "perfekt",
+  "mode": "neu",
+  "seed": 5,
+  "saving": 476.3399862557908,
+  "peak": 62.114435414694476
+ },
+ {
+  "kwp": 0.0,
+  "reserve": 1.0,
+  "kind": "perfekt",
+  "mode": "neu",
+  "seed": 6,
+  "saving": 491.2144917947171,
+  "peak": 77.11198124344014
+ },
+ {
+  "kwp": 0.0,
+  "reserve": 1.0,
+  "kind": "persistenz",
+  "mode": "tag",
+  "seed": 1,
+  "saving": -3.2229889883383294,
+  "peak": 112.28166761779516
+ },
+ {
+  "kwp": 0.0,
+  "reserve": 1.0,
+  "kind": "persistenz",
+  "mode": "tag",
+  "seed": 2,
+  "saving": -6.085909768433339,
+  "peak": 131.60485161540674
+ },
+ {
+  "kwp": 0.0,
+  "reserve": 1.0,
+  "kind": "persistenz",
+  "mode": "tag",
+  "seed": 3,
+  "saving": -3.420085360201483,
+  "peak": 137.01088923384253
+ },
+ {
+  "kwp": 0.0,
+  "reserve": 1.0,
+  "kind": "persistenz",
+  "mode": "tag",
+  "seed": 4,
+  "saving": -6.0488454420838025,
+  "peak": 111.03225153974971
+ },
+ {
+  "kwp": 0.0,
+  "reserve": 1.0,
+  "kind": "persistenz",
+  "mode": "tag",
+  "seed": 5,
+  "saving": -3.397128979779154,
+  "peak": 112.11443541469447
+ },
+ {
+  "kwp": 0.0,
+  "reserve": 1.0,
+  "kind": "persistenz",
+  "mode": "tag",
+  "seed": 6,
+  "saving": -7.179214685849729,
+  "peak": 127.11198124344014
+ },
+ {
+  "kwp": 0.0,
+  "reserve": 1.0,
+  "kind": "persistenz",
+  "mode": "neu",
+  "seed": 1,
+  "saving": 357.8811127257741,
+  "peak": 74.90265840536017
+ },
+ {
+  "kwp": 0.0,
+  "reserve": 1.0,
+  "kind": "persistenz",
+  "mode": "neu",
+  "seed": 2,
+  "saving": 493.0395295963199,
+  "peak": 81.60485161540674
+ },
+ {
+  "kwp": 0.0,
+  "reserve": 1.0,
+  "kind": "persistenz",
+  "mode": "neu",
+  "seed": 3,
+  "saving": 488.36106191527324,
+  "peak": 87.01088923384253
+ },
+ {
+  "kwp": 0.0,
+  "reserve": 1.0,
+  "kind": "persistenz",
+  "mode": "neu",
+  "seed": 4,
+  "saving": 406.3648985828813,
+  "peak": 69.20116003660053
+ },
+ {
+  "kwp": 0.0,
+  "reserve": 1.0,
+  "kind": "persistenz",
+  "mode": "neu",
+  "seed": 5,
+  "saving": 282.7701565794805,
+  "peak": 82.64733367387487
+ },
+ {
+  "kwp": 0.0,
+  "reserve": 1.0,
+  "kind": "persistenz",
+  "mode": "neu",
+  "seed": 6,
+  "saving": 490.4213143721299,
+  "peak": 77.11198124344014
+ },
+ {
+  "kwp": 0.0,
+  "reserve": 1.0,
+  "kind": "klimatologie",
+  "mode": "tag",
+  "seed": 1,
+  "saving": -4.0365905683629535,
+  "peak": 112.28166761779516
+ },
+ {
+  "kwp": 0.0,
+  "reserve": 1.0,
+  "kind": "klimatologie",
+  "mode": "tag",
+  "seed": 2,
+  "saving": -5.36798717556303,
+  "peak": 131.60485161540674
+ },
+ {
+  "kwp": 0.0,
+  "reserve": 1.0,
+  "kind": "klimatologie",
+  "mode": "tag",
+  "seed": 3,
+  "saving": -4.591570336868244,
+  "peak": 137.01088923384253
+ },
+ {
+  "kwp": 0.0,
+  "reserve": 1.0,
+  "kind": "klimatologie",
+  "mode": "tag",
+  "seed": 4,
+  "saving": -4.755179069841688,
+  "peak": 111.03225153974971
+ },
+ {
+  "kwp": 0.0,
+  "reserve": 1.0,
+  "kind": "klimatologie",
+  "mode": "tag",
+  "seed": 5,
+  "saving": -5.143446001848133,
+  "peak": 112.11443541469447
+ },
+ {
+  "kwp": 0.0,
+  "reserve": 1.0,
+  "kind": "klimatologie",
+  "mode": "tag",
+  "seed": 6,
+  "saving": -5.784880374255408,
+  "peak": 127.11198124344014
+ },
+ {
+  "kwp": 0.0,
+  "reserve": 1.0,
+  "kind": "klimatologie",
+  "mode": "neu",
+  "seed": 1,
+  "saving": 357.1326015664549,
+  "peak": 74.32275736808329
+ },
+ {
+  "kwp": 0.0,
+  "reserve": 1.0,
+  "kind": "klimatologie",
+  "mode": "neu",
+  "seed": 2,
+  "saving": 454.0144041187564,
+  "peak": 85.58832753471233
+ },
+ {
+  "kwp": 0.0,
+  "reserve": 1.0,
+  "kind": "klimatologie",
+  "mode": "neu",
+  "seed": 3,
+  "saving": 486.8518048279748,
+  "peak": 87.01088923384253
+ },
+ {
+  "kwp": 0.0,
+  "reserve": 1.0,
+  "kind": "klimatologie",
+  "mode": "neu",
+  "seed": 4,
+  "saving": 84.1550369481738,
+  "peak": 100.58325342328413
+ },
+ {
+  "kwp": 0.0,
+  "reserve": 1.0,
+  "kind": "klimatologie",
+  "mode": "neu",
+  "seed": 5,
+  "saving": 101.52200615060974,
+  "peak": 99.77028015164598
+ },
+ {
+  "kwp": 0.0,
+  "reserve": 1.0,
+  "kind": "klimatologie",
+  "mode": "neu",
+  "seed": 6,
+  "saving": 490.54512621217873,
+  "peak": 77.11198124344014
+ }
+]
