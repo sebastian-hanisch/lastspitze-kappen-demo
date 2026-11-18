@@ -1,7 +1,6 @@
 # Lastspitze kappen: Wie groß muss die Batterie sein? – Streamlit-Demo
 
-<!-- TODO nach dem Deploy: direkt hierher den Live-Link setzen (Leerzeile davor und danach):
-**[→ Demo live ausprobieren](https://sebastianhanisch-lastspitze-kappen-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-lastspitze-kappen-demo.streamlit.app/)**
 
 Fall-Demo für die Website „Sebastian Hanisch – Operations Research und Machine Learning“ (`demos.html`). Ein Gewerbekunde zahlt neben der Energie einen **Leistungspreis auf die höchste
 Viertelstunden-Bezugsleistung des Monats**. Eine Batterie kann diese Spitze kappen. Die Demo vergleicht für einen erzeugten Abrechnungsmonat (30 Tage, Viertelstunden, optional mit Photovoltaik)
